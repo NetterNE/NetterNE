@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NetterNE
+- 👀 I’m interested in Network and M5stack MCU.
+- 🌱 I’m currently learning Cloud computing and New language.
+- ⚡ Fun fact: Neuro-sama (ネウローサマ) is an independent English-speaking VTuber who streams on Twitch.
+                Her most remarkable feature is that she is not a human streamer herself,
+                but rather a complex of programs emulating a human streamer using artificial intelligence.
