@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NetterNE
+- 👋 Hi, I’m @NetterNE https://img.shields.io/badge/Learn-Network-blue
 - 👀 I’m interested in Network and M5stack MCU.
 - 🌱 I’m currently learning Cloud computing and New language.
 - ⚡ Fun fact: Neuro-sama (ネウローサマ) is an independent English-speaking VTuber who streams on Twitch.
